@@ -3,7 +3,7 @@ $(document).ready(init);
 
 function init() {
 	
-    $.ajaxsetup({ cache: false});
+    $.ajaxSetup({ cache: false});
     
     hideForm();
     $("#btn-add").on("click", addMovie);
