@@ -1,0 +1,80 @@
+[29-Oct-2017 04:18:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'movieus'@'localhost' (using password: YES) in /home1/darcikhe/public_html/cscd378/movies/services/showAll.php:16
+Stack trace:
+#0 /home1/darcikhe/public_html/cscd378/movies/services/showAll.php(16): PDO->__construct('mysql:host=loca...', 'movieus', 'B3~}K$!4(4d[', Array)
+#1 {main}
+  thrown in /home1/darcikhe/public_html/cscd378/movies/services/showAll.php on line 16
+[29-Oct-2017 04:18:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'movieus'@'localhost' (using password: YES) in /home1/darcikhe/public_html/cscd378/movies/services/showAll.php:16
+Stack trace:
+#0 /home1/darcikhe/public_html/cscd378/movies/services/showAll.php(16): PDO->__construct('mysql:host=loca...', 'movieus', 'B3~}K$!4(4d[', Array)
+#1 {main}
+  thrown in /home1/darcikhe/public_html/cscd378/movies/services/showAll.php on line 16
+[29-Oct-2017 04:20:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'movieus'@'localhost' (using password: YES) in /home1/darcikhe/public_html/cscd378/movies/services/showAll.php:16
+Stack trace:
+#0 /home1/darcikhe/public_html/cscd378/movies/services/showAll.php(16): PDO->__construct('mysql:host=loca...', 'movieus', 'B3~}K$!4(4d[', Array)
+#1 {main}
+  thrown in /home1/darcikhe/public_html/cscd378/movies/services/showAll.php on line 16
+[29-Oct-2017 04:20:24 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'movieus'@'localhost' (using password: YES) in /home1/darcikhe/public_html/cscd378/movies/services/showAll.php:16
+Stack trace:
+#0 /home1/darcikhe/public_html/cscd378/movies/services/showAll.php(16): PDO->__construct('mysql:host=loca...', 'movieus', 'B3~}K$!4(4d[', Array)
+#1 {main}
+  thrown in /home1/darcikhe/public_html/cscd378/movies/services/showAll.php on line 16
+[29-Oct-2017 04:20:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'movieus'@'localhost' (using password: YES) in /home1/darcikhe/public_html/cscd378/movies/services/showAll.php:16
+Stack trace:
+#0 /home1/darcikhe/public_html/cscd378/movies/services/showAll.php(16): PDO->__construct('mysql:host=loca...', 'movieus', 'B3~}K$!4(4d[', Array)
+#1 {main}
+  thrown in /home1/darcikhe/public_html/cscd378/movies/services/showAll.php on line 16
+[29-Oct-2017 04:21:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'movieus'@'localhost' (using password: YES) in /home1/darcikhe/public_html/cscd378/movies/services/showAll.php:16
+Stack trace:
+#0 /home1/darcikhe/public_html/cscd378/movies/services/showAll.php(16): PDO->__construct('mysql:host=loca...', 'movieus', 'B3~}K$!4(4d[', Array)
+#1 {main}
+  thrown in /home1/darcikhe/public_html/cscd378/movies/services/showAll.php on line 16
+[29-Oct-2017 04:22:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'movieus'@'localhost' (using password: YES) in /home1/darcikhe/public_html/cscd378/movies/services/showAll.php:16
+Stack trace:
+#0 /home1/darcikhe/public_html/cscd378/movies/services/showAll.php(16): PDO->__construct('mysql:host=loca...', 'movieus', 'B3~}K$!4(4d[', Array)
+#1 {main}
+  thrown in /home1/darcikhe/public_html/cscd378/movies/services/showAll.php on line 16
+[29-Oct-2017 04:27:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'movieus'@'localhost' (using password: YES) in /home1/darcikhe/public_html/cscd378/movies/services/showAll.php:16
+Stack trace:
+#0 /home1/darcikhe/public_html/cscd378/movies/services/showAll.php(16): PDO->__construct('mysql:host=loca...', 'movieus', 'B3~}K$!4(4d[', Array)
+#1 {main}
+  thrown in /home1/darcikhe/public_html/cscd378/movies/services/showAll.php on line 16
+[29-Oct-2017 04:28:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'movieus'@'localhost' (using password: YES) in /home1/darcikhe/public_html/cscd378/movies/services/add.php:16
+Stack trace:
+#0 /home1/darcikhe/public_html/cscd378/movies/services/add.php(16): PDO->__construct('mysql:host=loca...', 'movieus', 'B3~}K$!4(4d[', Array)
+#1 {main}
+  thrown in /home1/darcikhe/public_html/cscd378/movies/services/add.php on line 16
+[29-Oct-2017 04:31:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'movieus'@'localhost' (using password: YES) in /home1/darcikhe/public_html/cscd378/movies/services/showAll.php:16
+Stack trace:
+#0 /home1/darcikhe/public_html/cscd378/movies/services/showAll.php(16): PDO->__construct('mysql:host=loca...', 'movieus', 'B3~}K$!4(4d[', Array)
+#1 {main}
+  thrown in /home1/darcikhe/public_html/cscd378/movies/services/showAll.php on line 16
+[29-Oct-2017 04:35:22 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'movieus'@'localhost' (using password: YES) in /home1/darcikhe/public_html/cscd378/movies/services/add.php:16
+Stack trace:
+#0 /home1/darcikhe/public_html/cscd378/movies/services/add.php(16): PDO->__construct('mysql:host=loca...', 'movieus', 'B3~}K$!4(4d[', Array)
+#1 {main}
+  thrown in /home1/darcikhe/public_html/cscd378/movies/services/add.php on line 16
+[29-Oct-2017 04:39:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'movieus'@'localhost' (using password: YES) in /home1/darcikhe/public_html/cscd378/movies/services/showAll.php:16
+Stack trace:
+#0 /home1/darcikhe/public_html/cscd378/movies/services/showAll.php(16): PDO->__construct('mysql:host=loca...', 'movieus', 'B3~}K$!4(4d[', Array)
+#1 {main}
+  thrown in /home1/darcikhe/public_html/cscd378/movies/services/showAll.php on line 16
+[29-Oct-2017 04:40:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'movieus'@'localhost' (using password: YES) in /home1/darcikhe/public_html/cscd378/movies/services/showAll.php:16
+Stack trace:
+#0 /home1/darcikhe/public_html/cscd378/movies/services/showAll.php(16): PDO->__construct('mysql:host=loca...', 'movieus', 'B3~}K$!4(4d[', Array)
+#1 {main}
+  thrown in /home1/darcikhe/public_html/cscd378/movies/services/showAll.php on line 16
+[30-Oct-2017 00:27:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/darcikhe/public_html/cscd378/movies/services/showAll.php:26
+Stack trace:
+#0 /home1/darcikhe/public_html/cscd378/movies/services/showAll.php(26): PDO->__construct('mysql:host=192....', 'movie_user', 'password', Array)
+#1 {main}
+  thrown in /home1/darcikhe/public_html/cscd378/movies/services/showAll.php on line 26
+[30-Oct-2017 00:28:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/darcikhe/public_html/cscd378/movies/services/add.php:16
+Stack trace:
+#0 /home1/darcikhe/public_html/cscd378/movies/services/add.php(16): PDO->__construct('mysql:host=192....', 'movie_user', 'password', Array)
+#1 {main}
+  thrown in /home1/darcikhe/public_html/cscd378/movies/services/add.php on line 16
+[30-Oct-2017 00:29:30 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] Connection timed out in /home1/darcikhe/public_html/cscd378/movies/services/add.php:16
+Stack trace:
+#0 /home1/darcikhe/public_html/cscd378/movies/services/add.php(16): PDO->__construct('mysql:host=192....', 'movie_user', 'password', Array)
+#1 {main}
+  thrown in /home1/darcikhe/public_html/cscd378/movies/services/add.php on line 16
