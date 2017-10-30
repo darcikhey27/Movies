@@ -2,6 +2,8 @@
 $(document).ready(init);
 
 function init() {
+	
+    $.ajaxsetup({ cache: false});
     
     hideForm();
     $("#btn-add").on("click", addMovie);
